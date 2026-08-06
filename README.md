@@ -2,7 +2,7 @@
 
 Mini jeu d'arcade en JavaScript : pilotez un vaisseau, détruisez des soucoupes volantes avant qu'elles ne traversent l'écran, et marquez un maximum de points.
 
-![capture](images/flyingSaucer-petit.png)
+![capture](src/images/flyingSaucer-petit.png)
 
 ---
 
